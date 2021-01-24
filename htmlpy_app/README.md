@@ -1,0 +1,30 @@
+### 项目结构
+```bash
+back_end_codes/
+static/
+    css/
+        style.css
+        .
+        .
+        .
+    js/
+        script.js
+        .
+        .
+        .
+    img/
+        logo.img
+        .
+        .
+        .
+templates/
+    first_template_directory/
+        template1.html
+        template2.html
+        .
+        .
+    another_template_directory/
+        another_template.html
+    base_layout.html
+main.py
+```
